@@ -1,0 +1,16 @@
+{
+	"name": "smartalert_backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"author": "George Antoniadis",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1",
+		"firebase-admin": "^11.0.0",
+		"nodemon": "^1.3.3"
+	}
+}
